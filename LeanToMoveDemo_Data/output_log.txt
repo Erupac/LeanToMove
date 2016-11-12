@@ -1,0 +1,64 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8145 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 59Hz; virtual: 5120x2165 at 0,-725
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 347)
+
+The tree rock1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree rock2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree rock3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+UnloadTime: 0.586746 ms
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 184)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 184)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 184)
+
+Connected to lighthouse:LHR-A6304573
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 31ec -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 701)
+
