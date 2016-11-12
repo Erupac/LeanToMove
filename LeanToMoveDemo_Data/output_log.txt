@@ -16,7 +16,7 @@ Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\
 Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.044 seconds
 Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Jedidiah Phillips\Documents\Repos\Lean To Move Demo\LeanToMoveDemo_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
@@ -39,7 +39,7 @@ The tree rock3 must use the Nature/Soft Occlusion shader. Otherwise billboarding
  
 (Filename:  Line: 139)
 
-UnloadTime: 0.586746 ms
+UnloadTime: 0.664381 ms
 TerrainCollider: MeshCollider is not supported on terrain at the moment.
  
 (Filename:  Line: 184)
@@ -57,7 +57,7 @@ Connected to lighthouse:LHR-A6304573
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 31ec -> priority: 1 
+  Thread -> id: 2b58 -> priority: 1 
 OpenVR Shutdown
  
 (Filename:  Line: 701)
